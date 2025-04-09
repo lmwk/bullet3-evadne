@@ -40,3 +40,4 @@ CTestTestFile.cmake
 .vscode/
 .idea/
 cmake-build-debug/
+/bin-int/Debug-windows-x86_64/Bullet3
